@@ -11,3 +11,7 @@ gcc -ansi -Wall -o microshell microshell.c
 ```
 ./microshell
 ```
+### Type help and hit enter to get more info about shell
+```
+help
+```
