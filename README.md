@@ -1,6 +1,6 @@
 # microshell
 
-## My imitation of shell with implemetation of some bash commands
+## My imitation of shell with implemetation of some bash commands.
 
 ### Compile code
 ```
