@@ -1,34 +1,13 @@
 # microshell
 
 ## My imitation of shell with implemetation of some bash commands
+
+### Compile code
 ```
-npm install
+gcc -ansi -Wall -o microshell microshell.c 
 ```
 
-### Compiles and hot-reloads for development
+### Run program
 ```
-npm run serve
+./microshell
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
